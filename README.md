@@ -12,3 +12,6 @@ Udacity Frontend Nanodegree - Arcade Game Project
 
 ## Instructions:
 - To play the game, you have to download all the files and open index.html in your favorite browser.
+
+## For Live Example:
+[Click Here] (https://abeeralyaagoub.github.io/Classic-Arcade-Game/)
